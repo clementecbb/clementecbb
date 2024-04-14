@@ -18,6 +18,7 @@ Hi there! 👋 I'm Clemente Barros, a passionate university student of software 
 - JavaScript
 - HTML/CSS
 - PostgreSQL
+- C y Cpp
 
 ### Frameworks and Libraries:
 - Django
@@ -26,7 +27,7 @@ Hi there! 👋 I'm Clemente Barros, a passionate university student of software 
 - Reac Native
 - Tailwind
 - Bootstrap
-- C y Cpp
+
 
 ### Tools:
 - Git
