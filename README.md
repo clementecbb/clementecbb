@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**clementecbb/clementecbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Clemente Barros, a passionate university student of software engineer based in Chile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- Male
+- 2002
+- Chile
+- Universidad de los Andes
+- Engineer Computer Sciences
+- Work in China and Chile
+- Enough English
+
+## Skills
+
+### Programming Languages:
+- Python
+- JavaScript
+- HTML/CSS
+- PostgreSQL
+
+### Frameworks and Libraries:
+- Django
+- React.js
+- Node.js
+- Reac Native
+- Tailwind
+- Bootstrap
+- C y Cpp
+
+### Tools:
+- Git
+- VS Code
+- Postman
+
+## Projects
+
+#Soon ..
+
+
+
+Thanks for visiting! 😊
+
+
